@@ -18,7 +18,7 @@
 ---
 
 ## ⚡ Skills & Tools
-- **Languages:** Python, SQL, C basics  
+- **Languages:** Python basics, SQL basics, C basics  
 - **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite, Autopsy, ExtraHop NDR  
 - **Domains:** SOC Operations, Incident Response, Threat Intelligence, Digital Forensics  
 - **Other Skills:** Git/GitHub, Linux (Kali, Ubuntu, CentOS), Windows Server  
