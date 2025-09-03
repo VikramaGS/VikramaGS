@@ -14,7 +14,7 @@
 - 👨‍🏫 Aspiring Assistant Professor – love teaching and sharing knowledge in cybersecurity & programming.  
 - 🔍 Exploring: Network Security, Malware Analysis, Ethical Hacking, and Forensics.  
 - 📚 Certifications: **Certified Ethical Hacker (CEH v12)**, Post Graduate Cybersecurity Program.  
-
+https://aspen.eccouncil.org/VerifyBadge?type=certification&a=mZ1EUHPKxYv8cPU1sfZYAhbqbpuFIHDRzobNyprm/p8=
 ---
 
 ## ⚡ Skills & Tools
